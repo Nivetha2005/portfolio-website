@@ -1,41 +1,45 @@
-
 # Nivetha T - Portfolio Website
 
-This is a personal portfolio website for Nivetha T, showcasing skills, education background, projects, and contact information.
+This repository contains a personal portfolio website for Nivetha T, showcasing skills, education background, projects, and contact information.
 
 ## Technologies Used
-
 - React
 - JavaScript
 - HTML
 - CSS
 
-## How to Run
+## Getting Started
+To get a local copy up and running follow these simple steps.
 
+### Prerequisites
+Make sure you have Node.js and npm installed on your local machine.
+
+### Installation
 1. Clone the repository:
-git clone https://github.com/Nivetha2005/portfolio-website.git
+   ```sh
+   git clone https://github.com/Nivetha2005/portfolio-website.git
+Navigate to the project directory:
 
-css
+sh
 Copy code
-2. Navigate to the project directory:
 cd portfolio-website
+Install dependencies:
 
-markdown
+sh
 Copy code
-3. Install dependencies:
 npm install
+Starting the Development Server
+To start the development server, run:
 
-markdown
+sh
 Copy code
-4. Start the development server:
 npm start
+The website will be available at http://localhost:3000.
 
-csharp
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+vbnet
 Copy code
 
-The website will be available at `http://localhost:3000`.
-
-## License
-
-This project is licensed under the MIT License.
-This setup creates a basic portfolio website using React, styled with CSS, and structured with components for modularity. Adjust the content as needed to fit your specific requirements.
+This README provides clear instructions on cloning the repository, installing dependencies, 
