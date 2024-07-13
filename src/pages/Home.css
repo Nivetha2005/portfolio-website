@@ -1,0 +1,35 @@
+/* Home.css */
+
+.Home {
+  max-width: 800px; /* Adjust as per your layout requirements */
+  margin: 0 auto; /* Center align the content horizontally */
+  padding: 20px; /* Add padding for spacing */
+}
+
+.profile {
+  text-align: center; /* Center align the profile section */
+  margin-bottom: 20px; /* Add margin for spacing */
+}
+
+.profile-pic {
+  width: 150px; /* Adjust profile picture size as needed */
+  height: 150px; /* Adjust profile picture size as needed */
+  border-radius: 50%; /* Ensures the profile picture is round */
+}
+
+.section {
+  margin-bottom: 20px; /* Add margin between sections */
+}
+
+.section h2 {
+  margin-bottom: 10px; /* Add margin below section headings */
+}
+
+.section ul {
+  list-style-type: none; /* Remove default list styles */
+  padding-left: 0; /* Remove default list padding */
+}
+
+.section ul li {
+  margin-bottom: 5px; /* Add margin between list items */
+}

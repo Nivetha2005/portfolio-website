@@ -1,0 +1,22 @@
+.Footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.contact-links {
+  margin-bottom: 10px;
+}
+
+.contact-links a {
+  color: #fff;
+  font-size: 1.2rem;
+  margin-right: 20px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.contact-links a:hover {
+  color: #ff4500;
+}
