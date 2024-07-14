@@ -43,6 +43,9 @@ To start the development server, run:
 
 The website will be available at http://localhost:3000.
 
+## Output Images
+
+The output images for the project are placed in the 'images' folder.
 
 ## License
 
